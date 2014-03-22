@@ -1,0 +1,25 @@
+{
+  "name": "node-smallerhash",
+  "version": "0.0.1",
+  "description": "Generates a smaller hash from a larger one (i.e. MD5, SHA)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshfinnie/node-smallerhash.git"
+  },
+  "keywords": [
+    "hash"
+  ],
+  "author": "Josh Finnie <josh@jfin.us>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshfinnie/node-smallerhash/issues"
+  },
+  "homepage": "https://github.com/joshfinnie/node-smallerhash",
+  "devDependencies": {
+    "jasmine-node": "~1.13.1"
+  }
+}
